@@ -6,8 +6,8 @@
     "bower_components"
   ],
   "main": [
-    "jquery-mobile-1.4.5/jquery.mobile.js",
-    "jquery-mobile-1.4.5/jquery.mobile.css"
+    "jquery.mobile.js",
+    "jquery.mobile.css"
   ],
   "dependencies": {
     "jquery": "~1.10.2"
